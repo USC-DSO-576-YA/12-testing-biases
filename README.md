@@ -20,7 +20,7 @@ uv sync
 
 Open `promotion_review.ipynb` in VS Code. Use **Select Kernel → Python Environments** and choose this repository's `.venv`. Run cells from top to bottom, discuss each claim, and complete the response cells. Keep the `data` folder beside the notebook.
 
-- `data/survey.csv`: all 30 survey responses, including families who left or were turned away.
-- `data/traffic.csv`: family-visit and purchase counts by day and store type.
+- `data/survey.csv`: all 30 survey responses with store IDs, including families who left or were turned away.
+- `data/traffic.csv`: family-visit and purchase counts for each store on each day. The same four store IDs appear before and during the promotion.
 
 All data are fictional. Work locally; do not push your answers to the shared repository. Follow your instructor's submission instructions.

@@ -1,31 +1,31 @@
-response_id,outcome,rating
-R01,Purchased,5
-R02,Purchased,5
-R03,Purchased,5
-R04,Purchased,5
-R05,Purchased,5
-R06,Purchased,5
-R07,Purchased,5
-R08,Purchased,5
-R09,Purchased,5
-R10,Purchased,5
-R11,Purchased,5
-R12,Purchased,5
-R13,Purchased,4
-R14,Purchased,4
-R15,Purchased,4
-R16,Purchased,4
-R17,Purchased,4
-R18,Purchased,4
-R19,Purchased,2
-R20,Purchased,2
-R21,Left,4
-R22,Left,4
-R23,Left,2
-R24,Left,2
-R25,Left,2
-R26,Left,2
-R27,Turned away,1
-R28,Turned away,1
-R29,Turned away,1
-R30,Turned away,1
+response_id,store_id,outcome,rating
+R01,S01,Purchased,5
+R02,S02,Purchased,5
+R03,S03,Purchased,5
+R04,S04,Purchased,5
+R05,S01,Purchased,5
+R06,S02,Purchased,5
+R07,S03,Purchased,5
+R08,S04,Purchased,5
+R09,S01,Purchased,5
+R10,S02,Purchased,5
+R11,S03,Purchased,5
+R12,S04,Purchased,5
+R13,S01,Purchased,4
+R14,S02,Purchased,4
+R15,S03,Purchased,4
+R16,S04,Purchased,4
+R17,S01,Purchased,4
+R18,S02,Purchased,4
+R19,S03,Purchased,2
+R20,S04,Purchased,2
+R21,S01,Left,4
+R22,S02,Left,4
+R23,S03,Left,2
+R24,S03,Left,2
+R25,S04,Left,2
+R26,S04,Left,2
+R27,S03,Turned away,1
+R28,S04,Turned away,1
+R29,S03,Turned away,1
+R30,S04,Turned away,1

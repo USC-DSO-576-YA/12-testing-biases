@@ -1,5 +1,9 @@
-day,store_type,visitors,buyers
-Before,Quieter,100,80
-Before,Busy,20,4
-Promotion,Quieter,20,18
-Promotion,Busy,100,30
+day,store_id,store_type,visitors,buyers
+Before,S01,Quieter,60,48
+Before,S02,Quieter,40,32
+Before,S03,Busy,10,2
+Before,S04,Busy,10,2
+Promotion,S01,Quieter,10,9
+Promotion,S02,Quieter,10,9
+Promotion,S03,Busy,60,18
+Promotion,S04,Busy,40,12
