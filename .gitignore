@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+# Local instructor solutions
+/promotion_review_solutions.ipynb
