@@ -1,5 +1,5 @@
-week,customer_type,visitors,buyers
-Regular,New,100,20
-Regular,Returning,300,180
-Promotion,New,300,90
-Promotion,Returning,100,70
+day,store_type,visitors,buyers
+Before,Quieter,100,80
+Before,Busy,20,4
+Promotion,Quieter,20,18
+Promotion,Busy,100,30
