@@ -1,0 +1,5 @@
+[project]
+name = "dso576-testing-biases"
+version = "0.1.0"
+requires-python = ">=3.11,<3.14"
+dependencies = ["pandas>=2.2,<3", "ipykernel>=6,<8"]
