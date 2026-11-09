@@ -1,6 +1,6 @@
 # Module 12 — Testing Biases
 
-Review a fictional toy store's Pay Your Age promotion in a 50-minute paired activity inspired by Build-A-Bear's 2018 event. All classroom data are invented. Use simple pandas to check satisfaction, conversion, and changing store mix, then decide what evidence would establish success. Covers selection bias, Simpson's paradox, and confirmation bias through peer review; no regression is needed.
+Review a fictional toy store's Pay Your Age promotion in a 50-minute paired activity inspired by Build-A-Bear's 2018 event. All classroom data are invented. Use simple pandas to check satisfaction, conversion, and changing store mix, then decide what evidence would establish success. Covers selection bias, Simpson's paradox, and confirmation bias through peer review.
 
 ## Get started
 
