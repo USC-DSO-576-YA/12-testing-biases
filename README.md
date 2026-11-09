@@ -8,10 +8,14 @@ From Terminal (Mac) or PowerShell (Windows):
 
 ```text
 cd ~/dso576
-gh repo clone USC-DSO-576-YA/12-testing-biases
+git clone https://github.com/USC-DSO-576-YA/12-testing-biases.git
 cd 12-testing-biases
+```
+
+Open the `12-testing-biases` folder in VS Code. Choose **Terminal → New Terminal** and run:
+
+```text
 uv sync
-code .
 ```
 
 Open `promotion_review.ipynb` in VS Code. Use **Select Kernel → Python Environments** and choose this repository's `.venv`. Run cells from top to bottom, discuss each claim, and complete the response cells. Keep the `data` folder beside the notebook.
